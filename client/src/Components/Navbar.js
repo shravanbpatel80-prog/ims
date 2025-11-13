@@ -36,7 +36,11 @@ export default function Navbar() {
   };
 
   return (
+<<<<<<< HEAD
     <nav className="bg-white shadow-md border-b border-gray-200">
+=======
+    <nav className="bg-white shadow-md border-b border-gray-200 flex-shrink-0">
+>>>>>>> 1107e91 (reports addeed & sidebar navbar static)
       <div className="px-6 py-4 flex justify-between items-center">
         <div className="flex items-center">
           <h1 className="text-xl font-bold text-gray-800">EDIMS</h1>
